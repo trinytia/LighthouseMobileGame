@@ -5,6 +5,18 @@ TagManager:
   serializedVersion: 2
   tags:
   - Slot
+  - Mob
+  - BossDoor
+  - Heal
+  - Food
+  - ObstacleHard
+  - ObstacleSoft
+  - Trap
+  - Mimic
+  - Bonus
+  - Item
+  - Mob1
+  - Mob2
   layers:
   - Default
   - TransparentFX
