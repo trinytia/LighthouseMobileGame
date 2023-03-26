@@ -15,8 +15,6 @@ TagManager:
   - Mimic
   - Bonus
   - Item
-  - Mob1
-  - Mob2
   layers:
   - Default
   - TransparentFX
