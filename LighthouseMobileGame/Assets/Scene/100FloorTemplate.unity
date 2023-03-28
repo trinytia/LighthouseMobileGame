@@ -242,7 +242,7 @@ PrefabInstance:
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"ListOfTag","value":{"$content":[{"$content":"Mob","$type":"System.String"},{"$content":"Mob","$type":"System.String"},{"$content":"Mob","$type":"System.String"},{"$content":"Heal","$type":"System.String"},{"$content":"Food","$type":"System.String"},{"$content":"Food","$type":"System.String"},{"$content":"ObstacleSoft","$type":"System.String"},{"$content":"Slot","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfTagWithMimic","value":{"$content":[{"$content":"Mob","$type":"System.String"},{"$content":"Mob","$type":"System.String"},{"$content":"Mob","$type":"System.String"},{"$content":"Mob","$type":"System.String"},{"$content":"Mob","$type":"System.String"},{"$content":"Heal","$type":"System.String"},{"$content":"Food","$type":"System.String"},{"$content":"ObstacleSoft","$type":"System.String"},{"$content":"Trap","$type":"System.String"},{"$content":"Mimic","$type":"System.String"},{"$content":"Bonus","$type":"System.String"},{"$content":"Slot","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
-        Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfTagSprite","value":{"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
+        Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfTagSprite","value":{"$content":[{"Key":{"$content":"ObstacleSoft","$type":"System.String"},"Value":{"$content":0,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Mob1","$type":"System.String"},"Value":{"$content":1,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Mob2","$type":"System.String"},"Value":{"$content":2,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Shield","$type":"System.String"},"Value":{"$content":3,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Power","$type":"System.String"},"Value":{"$content":4,"$type":"UnityEngine.Object"}},{"Key":{"$content":"FreeMove","$type":"System.String"},"Value":{"$content":5,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Trap","$type":"System.String"},"Value":{"$content":6,"$type":"UnityEngine.Object"}},{"Key":{"$content":"HealLow","$type":"System.String"},"Value":{"$content":7,"$type":"UnityEngine.Object"}},{"Key":{"$content":"HealHigh","$type":"System.String"},"Value":{"$content":8,"$type":"UnityEngine.Object"}},{"Key":{"$content":"FoodLow","$type":"System.String"},"Value":{"$content":9,"$type":"UnityEngine.Object"}},{"Key":{"$content":"FoodHigh","$type":"System.String"},"Value":{"$content":10,"$type":"UnityEngine.Object"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfTagAnimation","value":{"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfBonus","value":{"$content":[{"$content":"Shield","$type":"System.String"},{"$content":"Power","$type":"System.String"},{"$content":"FreeMove","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfHeal","value":{"$content":[{"$content":"HealLow","$type":"System.String"},{"$content":"HealLow","$type":"System.String"},{"$content":"HealHigh","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
@@ -264,6 +264,54 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Door100","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 5977a960b6bf34149867c07c53a6d73f, type: 3}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 162d2ea28fe5127409ad2f6ed6171cad, type: 3}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 86c1b7d91c9a8f3459573bd20c4aeca9, type: 3}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 21300000, guid: 3f6bf0038ea28f74d976ffa11dbc28c7, type: 3}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 21300000, guid: 3f6bf0038ea28f74d976ffa11dbc28c7, type: 3}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: 3f6bf0038ea28f74d976ffa11dbc28c7, type: 3}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 21300000, guid: 9e0252a05be7227468a85ab9d201d85b, type: 3}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[9]
+      value: 
+      objectReference: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 325394784358205020, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
+      propertyPath: _data._objectReferences.Array.data[10]
+      value: 
+      objectReference: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4acc9dd279cd94f42ac1dbf45b28dbd2, type: 3}
 --- !u!1 &325394784953584493 stripped
@@ -330,6 +378,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3047574589785634951, guid: a16cc14bbdfc5b742a3b8c151a014e11, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c60df1c65b976cf4c9811dc710fd985f, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a16cc14bbdfc5b742a3b8c151a014e11, type: 3}
 --- !u!1001 &7222617534062006578
